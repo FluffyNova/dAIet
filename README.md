@@ -1,8 +1,10 @@
 # daiet
 
-A new Flutter project.
+Maintaining a healthy lifestyle can be a challenge, especially when it comes to nutrition and exercise. Introducing dAiet—an AI-powered app designed to transform the way you eat and stay active.
 
 ## Getting Started
+
+Demo: https://youtu.be/pqyPopUE_V4
 
 This project is a starting point for a Flutter application.
 
